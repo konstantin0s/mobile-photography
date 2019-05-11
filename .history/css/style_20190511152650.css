@@ -225,15 +225,25 @@ footer h3 {
     text-decoration: none;
     border-radius: 35%;
   }
-  .socialIcon {
-    display: flex;
+  #socialIcon {
+    /* display: flex;
     justify-content: space-around;
-    flex-direction: row;
+    flex-direction: row; */
     width: 100%;
- 
+    height: 400px;
     position: relative;
     top: 20px;
-    left: 40px;
+    left: 200px;
+  }
+
+  footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin: auto;
+    color: #333;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
   }
 
  

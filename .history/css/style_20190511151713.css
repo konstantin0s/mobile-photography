@@ -218,23 +218,11 @@ footer h3 {
 
   .fa {
     padding: 15px;
-    margin-right: 80px;
-    font-size: 50px;
-    width: 35px;
+    margin-right: 50px;
+    font-size: 20px;
+    width: 25px;
     text-align: center;
     text-decoration: none;
     border-radius: 35%;
   }
-  .socialIcon {
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row;
-    width: 100%;
- 
-    position: relative;
-    top: 20px;
-    left: 40px;
-  }
-
- 
 }

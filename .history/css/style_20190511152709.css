@@ -233,7 +233,17 @@ footer h3 {
  
     position: relative;
     top: 20px;
-    left: 40px;
+    left: 200px;
+  }
+
+  footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    margin: auto;
+    color: #333;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
   }
 
  
