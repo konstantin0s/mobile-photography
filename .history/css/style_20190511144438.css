@@ -117,12 +117,10 @@ footer h3 {
 
 .fa {
   padding: 20px;
-  margin-right: 50px;
   font-size: 30px;
   width: 50px;
   text-align: center;
   text-decoration: none;
-  border-radius: 45%;
 }
 
 /* Add a hover effect if you want */
@@ -146,30 +144,10 @@ footer h3 {
 
 /* Instagram */
 .fa-instagram {
-  background: rgb(19, 53, 78);
+  background: #55ACEE;
   color: white;
 }
 
-/* Email & Phone*/
-
-.fa-envelope {
-  position: relative;
-  left:-90px;
- top: 62px;
-}
-
-.fa-mobile {
-  position: relative;
-  left:-96px;
- top: 62px;
-}
-
-.container {
-  display: flex;
- flex-direction: column;
- justify-content: space-evenly;
- align-items: center;
-}
 
 /* Screen size 500px and up*/
 @media(min-width: 500px) {

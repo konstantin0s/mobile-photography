@@ -154,14 +154,12 @@ footer h3 {
 
 .fa-envelope {
   position: relative;
-  left:-90px;
+  left:-120px;
  top: 62px;
 }
 
 .fa-mobile {
-  position: relative;
-  left:-96px;
- top: 62px;
+
 }
 
 .container {
